@@ -51,12 +51,6 @@ REGLES DE COMPETITION
 Si plusieurs pilotes ont effectué le même nombre de lancers de dé, c'est le temps réel réalisé qui les départage. En cas d'égalité parfaite au nombre de jets et au temps, les pilotes seront classés dans l'ordre où ils auront réalisé cette performance.
 1-3-3. Les organisateurs peuvent moduler ce classement (ex : éviter que les coéquipiers d’une même écurie se retrouvent à la même table).
 
-1-4. Exemples
-1-4-1. Un pilote a réalisé son essai en 18 jets de dés avec un chrono de1' 15'' 56, tout en étant sorti de deux cases dans un virage avec des pneus tendres, en plus d'une erreur de placement de cinq cases dans une ligne droite. Aux 18 jets de dés, on ajoute un jet de dé correspondant à la minute écoulée de son chrono plus quatre jets de pénalité dus aux deux cases de sortie de virage ( 2*2 pour les pneus tendres) plus dix autres jets pour l’erreur de placement. Le total de jets de dés est donc 33. Donc, son "temps absolu" de la séance est de 33 lancers de dé en 1'15''56.
-1-4-2. Un pilote a réalisé son essai en 16 jets de dés avec un chrono de 1'59''56, tout en étant sorti de deux cases dans un virage avec des pneus pluie alors qu’il devait sortir de trois cases. Aux 16 jets de dés, on ajoute un jet de dé correspondant à la minute écoulée de son chrono plus dix jets de pénalité pour l’erreur de placement et deux autres jets pour la sortie de deux cases. Le total de jets de dés est
-donc 29. Donc, son "temps absolu" de la séance est de 29 lancers de dé en 1'59''56.
-1-4-3. Un pilote a réalisé son essai en 17 jets de dés avec un chrono de 2'00''00, en étant entré dans un virage avec des pneus tendres alors qu’il devait s’arrêter de deux cases devant ce virage avec des pneus tendres. Aux 17 jets de dés, on ajoute deux jets de dé correspondant aux minutes écoulées de son chrono plus dix jets de pénalité dus à l’erreur. Le total de jets de dés est donc 29. Donc, son "temps absolu" de la séance est de 29 lancers de dé en 2'00''00.
-
 
 2. La course
 2-0-1. Dès que les essais sont finis, l'auteur du meilleur "temps absolu" tire la météo. S’il fait soleil ou s'il pleut, les conditions sont les mêmes pour toutes les tables. Si le temps est variable, l’évolution de la météo sera dépendante du déroulement de chacune des courses à chaque table.
@@ -123,10 +117,7 @@ donc 29. Donc, son "temps absolu" de la séance est de 29 lancers de dé en 1'59
 6-2-2. Pendant la course, à chaque nouveau tour de jeu, les pilotes jouent dans l'ordre déterminé par la position de leur voiture sur la piste. Exemple : Durant un tour de jeu, la voiture B double la voiture A située en première position. Au tour suivant, la voiture B qui est maintenant en première position, jouera donc avant la voiture A.
 6-2-3. Important : Lorsque deux voitures se trouvent au même niveau sur la piste, c'est la voiture dont le rapport de vitesse est le plus élevé qui jouera en premier. Si les 2 voitures ont le même rapport, celle arrivée la première jouera d'abord.
 6-2-4. Attention : Un cas particulier se présente avec les stands, ce cas sera traité plus loin (19-5 - ordre de jeu pour l'arrêt aux stands). Lorsqu'un cas particulier se présente, c'est toujours le cas particulier qui prévaut sur la règle générale.
-6-2-5. Ordre de jeu lorsqu'un joueur se fait prendre un tour. Lorsqu'un pilote se fait prendre un tour de circuit par un autre pilote, il ne rejoue pas avant le pilote qui le dépasse. L'ordre du tour de jeu commence par le pilote en tête de course et est poursuivi dans l'ordre des voitures sur la piste jusqu'à la voiture immédiatement devant la voiture de tête (une piste de Formule Dé est une boucle). Donc le pilote à la traîne effectue un coup de moins que le pilote qui le rattrape. Mais si le pilote retardataire redouble le pilote de tête, il récupère son coup perdu précédemment et joue donc deux coups dans le même tour de jeu. Exemple avec 4 pilotes : 1 - 2 - 3 - 4. 1 (double 4), 2 (double 4) - 3
-1 - 2 - 4 (repasse 2) - 3
-1 - 4 (repasse 1) - 2 - 3 - 4
-1 - 2 - 3 - 4.
+6-2-5. Ordre de jeu lorsqu'un joueur se fait prendre un tour. Lorsqu'un pilote se fait prendre un tour de circuit par un autre pilote, il ne rejoue pas avant le pilote qui le dépasse. L'ordre du tour de jeu commence par le pilote en tête de course et est poursuivi dans l'ordre des voitures sur la piste jusqu'à la voiture immédiatement devant la voiture de tête (une piste de Formule Dé est une boucle). Donc le pilote à la traîne effectue un coup de moins que le pilote qui le rattrape. Mais si le pilote retardataire redouble le pilote de tête, il récupère son coup perdu précédemment et joue donc deux coups dans le même tour de jeu.
 
 VITESSES / DES CASES
 1ère 1 à 2
@@ -178,45 +169,6 @@ Nota : le test météo se fait en fin de tour de jeu.
 un dépassement ou pour éviter un test de tenue de route.
 7-2-5. Remarque : Quand vous êtes sur le couloir du milieu sur une portion de circuit à trois couloirs, le déboîtement autorisé se limite à un seul couloir. Si le pilote déboîte à gauche ou à droite et il doit alors continuer tout droit jusqu’à la fin de son déplacement sans pouvoir revenir sur le couloir central. Ceci est valable pour une piste sans obstacle (voiture ou case dangereuse).
 7-2-6. Quand un déplacement commence sur la ligne droite et se termine dans un virage ou vice et versa, le zigzag devient possible s’il respecte les codes de conduite de chacune des deux portions.
-
-7-3. Exemples de déplacements
-7-3-1. Ligne droite :
-OUI NON OUI
-7-3-2. Ligne droite encombrée :
-7-3-2-1. Si la voiture X veut aller en D :
-- Trajectoire juste : A-C-D (7 cases).
-- Trajectoire fausse : B-C-D (8 cases).
-7-3-2-2. Si la voiture Y veut aller en G :
-- Trajectoire juste : B-E-G (9 cases).
-- Trajectoires fausses : tous chemins voulant déboîter du couloir B-E-G.
-7-3-2-3. Si la voiture Y veut aller en C :
-- Trajectoire juste : B-C (6 cases).
-- Trajectoire fausse : A-C (7 cases).
-7-3-2-4. Si la voiture X veut aller en F en évitant la case dangereuse :
-- Trajectoires justes : A-C-D-F, A-C-E-F ou B-E-F (9 cases).
-- Trajectoire fausse : B-C-D-F (10 cases).
-7-3-2-5. Si la voiture X veut aller en F en passant sur la case dangereuse :
-- Trajectoire juste : A-C-F (8 cases).
-- Trajectoire fausse : B-C-F (9 cases).
-7-3-2-6. Si la voiture Z veut aller en F en évitant la case dangereuse :
-- Trajectoire juste : B-E-F (9 cases).
-- Trajectoires fausses : B-C-D-F, A-C-D-F, A-C-E-F (10 cases).
-Nota : le déplacement B-C-E-F viole la règle 7-2-4 par un zigzag non justifié entre B et E.
-7-3-3. Entrée en ligne droite :
-7-3-3-0. Dans l'exemple, la voiture en A a effectué son nombre d'arrêts obligatoires dans le virage et ne se trouve en aucun cas dans une situation de "sortie de virage" expliqué au chapitre 10.
-7-3-3-1. Une voiture se trouvant en A peut, suivant « le code de conduite dans les virages », arriver sur la case C en passant par la B puis aller sur la case E avec les déboîtements autorisés de la ligne droite suivant « le code de conduite dans les lignes droites », et s'il n'y a pas de voiture devant, continuer tout droit.
-7-3-3-2. Une voiture se trouvant en A et voulant aller sur la case H ne peut pas faire le déplacement A-B-C-DE-F-G-H car elle viole la règle 7-2-3 entre les cases D et F.
-7-3-4. Entrée de virage :
-7-3-4-1. La voiture B peut passer par la case C pour aller à la case D.
-7-3-4-2. La voiture A ne peut pas passer par B pour aller à la case C car cela violerait la règle 7-2-3.
-7-3-5. Le mur de cases dangereuses : Comme indiqué dans les règles 17-1 sur les Tenues de Routes, le joueur décide quelles sont les cases dangereuses qu'il considère comme obstacles. Donc, dans notre exemple, le joueur peut : - sur un 6, aller sur la case d'arrivée en passant par la case dangereuse A. - sur un 7, aller sur la case d'arrivée en passant par la case dangereuse B et considérer que la case dangereuse A est un obstacle pouvant être contourné. - sur un 8, aller sur la case d'arrivée en passant par la case dangereuse C et considérer que les cases dangereuses A et B sont des obstacles pouvant être contournés.
-7-3-6. Le double mur de cases dangereuses : - Avec un 12, la voiture peut aller sur la case d'arrivée en passant par C et D. La voiture a droit de zigzaguer car les cases A, B, E, F sont considérées comme des obstacles. - Sur un 11, la voiture peut aller sur la case d'arrivée en passant par C et E ou B et D.
-7-3-7. Déplacement avec le muret : La voiture rouge veut aller sur la case A.. Le chemin le plus court serait de passer par soit B avec un test de muret (7 cases) ou soit par la case dangereuse C (7 cases) et donc de faire un test dans les deux cas. Mais il a une troisième possibilité pour éviter de faire des tests (cf. 7-2-3): c'est de passer par D (8 cases).
-7-3-8. Passage d'un virage à un autre :
-7-3-8-1. Une voiture en X peut aller en Y lors de son tour de jeu en passant par A, B, C, D jusqu'à E puis Y.
-7-3-8-2. Une voiture en X voulant rentrer dans le virage suivant alors qu'il y a une voiture en Y ne peut pas prendre le parcours A, B, C, D jusqu'à E puis revenir en F. Le chemin le plus long que peut prendre la voiture en X est A, B, C jusqu'à F puis rentrer dans le virage.
-7-3-9. Passage d’un virage à deux arrêts :
-7-3-9-1. La voiture passe une troisième et fait 8. Le virage est en deux arrêts avec sept cases au maximum. Le pilote doit utiliser un frein s’il ne veut passe faire éliminer.
 
 
 8. Les pneus durs, tendres et pluie
@@ -417,21 +369,13 @@ Nombre de vitesses sautées Consommation Freins Moteur
 16-0-9. Lors d'un déplacement d'inertie, il est interdit de prendre la ligne des stands.
 
 
-16-1. Exemple d'inertie
-16-1-1. La voiture rouge vient de casser son dernier moteur et doit faire son inertie, son pilote à fait 7 à son dé de quatrième.
-16-1-2. Si la voiture est chaussée de pneus durs sur une piste sèche, elle devra aller sur la case A.
-16-1-3. Si la voiture est chaussée d'au moins neuf pneus tendres sur une piste sèche, elle ira sur la case B.
-16-1-4. Si la voiture est chaussée d'au moins neuf pneus tendres sur une piste mouillée, elle ira sur la case C.
-16-1-5. Si la voiture est chaussée de trois pneus pluie sur une piste mouillée, elle devra aller sur la case D.
-
-
 17. Tenue de route
 
 17-0-1. A chaque fois qu’une voiture perd un point de carrosserie ou moteur, la case sur laquelle s’est produit l’incident devient dangereuse. Cette case dangereuse doit être signalée visuellement par un autocollant.
 17-0-2. Si une voiture vient à entrer sur cette case, le pilote devra tirer le dé noir pour évaluer les dommages occasionnés sur la TENUE DE ROUTE. S’il tire un chiffre de 1 à 4 sur piste sèche et de 1 à 5 sur piste mouillée, il perd un PdV de Tenue de Route et le raye de sa feuille de course. Au dernier PdV de Tenue de Route perdu, la voiture est éliminée de la course.
 17-0-3. Une voiture éliminée sur une tenue de route est aussitôt retirée de la piste. On ne pose pas d'autocollant case dangereuse sur la case d’élimination.
 
-17-1. Remarque : Les cases dangereuses qui parsèment ainsi la piste sont alors des obstacles que vous pouvez éviter en déboîtant votre voiture d’un couloir (voir exemples au point 7-3).
+17-1. Remarque : Les cases dangereuses qui parsèment ainsi la piste sont alors des obstacles que vous pouvez éviter en déboîtant votre voiture d’un couloir.
 
 17-2. Une voiture restant sur une case dangereuse lors de son tour de jeu ne fait pas de test de tenue de route car elle n’entre pas sur cette case(pour rester sur une case: première ou seconde vitesse avec utilisation de freins pour éviter de se déplacer).
 17-2-1. Une voiture restant sur la même case fait, par contre, ses tests carrosseries si le cas se présente.
