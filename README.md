@@ -11,7 +11,7 @@ Vous retrouverez ici les règles officielles et des règles alternatives (Master
 
 + Les règles sont disponibles dans le dossier [rules/versions/](rules/versions/)
 + La dernière version des règles officielles est disponible dans [rules/fd-rules-fr.txt](rules/fd-rules-fr.txt)
-+ La dernière version des règles masters de la FFFD est disponible dans [rules/fd-fffd-rules-masters-fr.txt](rules/fd-fffd-rules-masters-fr.txt)
++ La dernière version des règles masters (compétition) est disponible dans [rules/fd-rules-masters-fr.txt](rules/fd-rules-masters-fr.txt)
 
 ![English flag](https://github.com/orouet/FD-Rules/blob/master/site/img/flags/en-GB.png?raw=true)
 You can find here officials and alternatives rules for **Formule Dé / Formula D** in different languages and different formats.
