@@ -1,8 +1,11 @@
 REGLES DE COMPETITION
 
 
-0. Définitions
+0. Préambule et définitions
 
+0-1. Préambule
+
+0-0. Définitions
 0-0-1. Tour de circuit : faire un tour de circuit, c’est faire parcourir à sa voiture l'ensemble du tracé d'un circuit une fois. Une course de Formule Dé comporte 3 tours de circuits.
 0-0-2. Tour de jeu : un tour de jeu commence lorsque le joueur en tête de la course commence son coup et se termine juste avant qu’il ne commence son coup suivant(attention, le joueur en tête de la course peut avoir changé entre temps). Notons qu’un pilote peut exceptionnellement ne pas jouer ou jouer deux fois pendant un tour de jeu, mais uniquement lorsqu’un pilote se fait prendre un tour de circuit (cf. 6-2-6)
 0-0-3. Coup : le coup d’un joueur est l’ensemble des actions qu’un joueur doit accomplir ou faire accomplir avant que le suivant ne joue. Cela comprend bien sûr l’avancée de sa voiture, mais pas seulement (cf. 6-3).
@@ -15,7 +18,7 @@ REGLES DE COMPETITION
 1-0. Organisation des essais chronométrés
 1-0-1. Pour déterminer les positions sur la grille de départ, chaque pilote effectuera un nombre de séance(s) d'essais prédéfini par l'organisation. Une séance d'essai consiste à faire un tour de circuit chronométré. Durant les essais, les règles de déplacement et de code de conduite sont appliquées normalement (ex : Impossibilité de rétrograder de 6ème vitesse à la première, cf .6-1-2) mais les PdV ne sont pas pris en compte (donc, interdiction de freiner). Seules les sorties de virage (cf 10) donnent lieu à des pénalités comptabilisées en lancers de dé.
 1-0-2. Lors de l'inscription de chaque journée, les commissaires désignés par l'organisation se verront remettre un chronomètre et une enveloppe contenant les fiches des séances d'essais sur lesquelles ils inscriront les temps des pilotes qu'ils superviseront à leur table. Il est recommandé au commissaire de chaque table de choisir deux adjoints de championnats différents pour l'aider dans sa tâche. L'un note les dés, tandis que l'autre suit avec le commissaire le déroulement de la séance sur la piste.
-1-0-3. Avant chaque séance d'essais, la météo sera tirée au dé noir. Elle déterminera les mêmes conditions atmosphériques pour toutes les tables de jeu. (voir 3-1 pour la lecture du tirage)
+1-0-3. Avant chaque séance d'essais, la météo sera tirée au Dé Noir. Elle déterminera les mêmes conditions atmosphériques pour toutes les tables de jeu. (voir 3-1 pour la lecture du tirage)
 1-0-4. Nota : Des tables devront être réservées pour les pilotes courant régulièrement sous la minute. Des commissaires chevronnés (capable de performances similaires aux joueurs en piste) avec des yeux de lynx en assureront le bon déroulement.
 
 1-1. Procédure pour un tour de qualification
@@ -27,7 +30,7 @@ REGLES DE COMPETITION
 1-1-6. Le joueur ne doit utiliser qu'une seule main (et aucune autre partie de son corps !) pour effectuer sa séance d'essais. Une séance d'essais commence avec l'enclenchement du chronomètre (ou compteur de table) et se termine avec l'arrêt de celui-ci
 1-1-7. Pour chaque coup, les mouvements suivants doivent être faits dans l'ordre : déplacements du levier de vitesse (si désiré), jet du dé correspondant, déplacement de la voiture.
 1-1-7-1. Chaque coup doit être distinct du suivant. On ne doit pas passer au coup suivant tant que le dé roule.
-1-1-7-2. Si un commissaire remarque une infraction au point 1-1-7-1, il le signale au joueur par ‘Levier’ indiqué au point 1-2-1-1.
+1-1-7-2. Si un commissaire remarque une infraction au point 1-1-7-1, il le signale au joueur par "Levier" indiqué au point 1-2-1-1.
 1-1-8. Une fois la ligne d'arrivée franchie, le pilote arrêtera lui-même le chronomètre (ou compteur de table).
 1-1-9. A la fin de la séance d'essais d'un pilote, les spectateurs donnent leur avis et le commissaire principal tranche en cas de litige.
 1-1-10. Le commissaire adjoint chargé de la notation des dés comptabilise ensuite le nombre de lancers de dés effectués pour couvrir le tour de circuit.
@@ -38,7 +41,7 @@ REGLES DE COMPETITION
 
 1-2. Erreurs
 1-2-1. Erreurs non pénalisantes
-1-2-1-1. En cas de différence entre le levier du pilote et le dé qu'il joue, les commissaires doivent annoncer 'levier' pour lui faire rejouer le coup dans sa totalité (choix de la vitesse avec le levier puis lancer du dé). Cela n'entraîne pas d'autre pénalité que la perte de temps.
+1-2-1-1. En cas de différence entre le levier du pilote et le dé qu'il joue, les commissaires doivent annoncer "Levier" pour lui faire rejouer le coup dans sa totalité (choix de la vitesse avec le levier puis lancer du dé). Cela n'entraîne pas d'autre pénalité que la perte de temps.
 1-2-1-2. En cas de litige sur le positionnement de la voiture (voiture sur deux ou plusieurs cases), le commissaire adjoint chargé de la visualisation fait un signe, convenu à l’avance, au commissaire principal. Si le commissaire principal considère le placement litigieux, il annonce "voiture" et le joueur doit repositionner correctement sa voiture. Si le pilote a déjà jeté son dé pour le coup suivant, il replace sa voiture et rejette son dé. S'il a déjà bougé sa voiture pour le coup suivant, le commissaire ne doit plus intervenir, il aurait du le faire avant.
 1-2-1-3. Si un joueur utilise la main qui n'a pas enclenché le chronomètre ou toute autre partie de son corps, l'arbitre doit annoncer "main" et le pilote doit replacer les choses telles qu'elles étaient avant son mouvement interdit puis continuer sa séance.
 1-2-1-4. Si le pilote passe une vitesse interdite (ex : de la 6ème à la 1ère ou de la 3ème à 5ème), un commissaire doit immédiatement avertir le joueur en annonçant "vitesse interdite" afin qu'il modifie son choix.
@@ -47,8 +50,7 @@ REGLES DE COMPETITION
 
 1-3. Gestion technique
 1-3-1. Le commissaire inscrira le "temps absolu" sur la fiche individuelle du pilote qui ira la remettre au PC afin qu'elle y soit enregistrée. Il inscrira aussi le nom du pilote et/ou son numéro d'inscription et le "temps absolu" sur la feuille de table, qui servira de vérification le cas échéant.
-1-3-2. La répartition des tables se fera suivant le classement général des séances d'essais. Du temps absolu le plus petit jusqu'au plus gros.
-Si plusieurs pilotes ont effectué le même nombre de lancers de dé, c'est le temps réel réalisé qui les départage. En cas d'égalité parfaite au nombre de jets et au temps, les pilotes seront classés dans l'ordre où ils auront réalisé cette performance.
+1-3-2. La répartition des tables se fera suivant le classement général des séances d'essais. Du temps absolu le plus petit jusqu'au plus gros. Si plusieurs pilotes ont effectué le même nombre de lancers de dé, c'est le temps réel réalisé qui les départage. En cas d'égalité parfaite au nombre de jets et au temps, les pilotes seront classés dans l'ordre où ils auront réalisé cette performance.
 1-3-3. Les organisateurs peuvent moduler ce classement (ex : éviter que les coéquipiers d’une même écurie se retrouvent à la même table).
 
 
@@ -60,20 +62,24 @@ Si plusieurs pilotes ont effectué le même nombre de lancers de dé, c'est le t
 
 3. La météo
 
-3-0-1. La météo, ou conditions atmosphériques, est redéfinie avant chaque séance d’essais et avant la course. Elle permet aux joueurs de déterminer le choix du type de pneus pour les essais et l’ensemble de la configuration de la voiture pour la course. Un barème météorologique de 1 à 20 est inscrit sur chaque circuit. Après avoir lancé le dé noir, il suffit de s’y référer pour connaître l’évolution de la météo. Le barème météorologique est différent pour chacun des circuits. Il existe 3 types de météo : PLUIE, VARIABLE et SOLEIL.
+3-0. Définition 
+3-0-1. La météo, ou conditions atmosphériques, permet aux joueurs de déterminer le choix du type de pneus pour les essais et l’ensemble de la configuration de la voiture pour la course.
+3-0-2. Il existe 3 types de météo : PLUIE, VARIABLE et SOLEIL.
+3-0-3. Un barème météorologique de 1 à 20 est inscrit sur chaque circuit.
+3-0-4. La météo est déterminée par un jet de Dé Noir.
 
 3-1. Les essais
-3-1-1. Le chiffre du dé noir est comparé avec le barème indiqué sur le plateau. Si le climat est :
+3-1-1. Le chiffre du Dé Noir est comparé avec le barème indiqué sur le plateau. Si le climat est :
 3-1-2. SOLEIL : Il fait beau pendant toute la durée des essais. La piste est donc sèche.
 3-1-3. PLUIE : Il pleut pendant toute la durée des essais. La piste est donc mouillée.
 3-1-4. VARIABLE : Le ciel est couvert de nuages mais il ne pleut pas pendant toute la durée des essais. La piste est donc sèche.
 3-1-5. Ce résultat s’applique sur toutes les tables.
 
 3-2. La course
-3-2-1. Le pilote en « pole position absolue » est chargé de tirer la météo pour la course. Il lance le dé noir et compare le chiffre sorti au barème indiqué sur le plateau. Si le climat est :
+3-2-1. Le pilote en "pôle position absolue" est chargé de tirer la météo pour la course. Il lance le Dé Noir et compare le chiffre sorti au barème indiqué sur le plateau. Si le climat est :
 3-2-2. SOLEIL : Il fait beau pendant toute la durée de la course sur toutes les tables. La piste est donc sèche pour toute la durée de la course.
 3-2-3. PLUIE : Il pleut pendant toute la durée de la course sur toutes les tables. La piste est donc mouillée pour toute la durée de la course.
-3-2-4. VARIABLE : Au départ de la course, la météo est variable et l'état de la piste (sèche ou mouillée) au départ de la course sera fonction de la météo de la séance d'essais précédant la course (si c'était beau ou variable, alors la piste est sèche et si c'était la pluie alors la piste est mouillée). L’évolution de la météo sera dépendante du déroulement de chacune des courses à chaque table. Elle évoluera lorsqu’un pilote obtient le chiffre 20 en 5ème vitesse ou le chiffre 30 en 6ème. Il devra alors lancer le dé noir à la fin du tour de jeu pour connaître l’évolution de la météo et de l’état de la piste en se reportant au barème inscrit sur le plateau.
+3-2-4. VARIABLE : Au départ de la course, la météo est variable et l'état de la piste (sèche ou mouillée) au départ de la course sera fonction de la météo de la séance d'essais précédant la course (si c'était beau ou variable, alors la piste est sèche et si c'était la pluie alors la piste est mouillée). L’évolution de la météo sera dépendante du déroulement de chacune des courses à chaque table. Elle évoluera lorsqu’un pilote obtient le chiffre 20 en 5ème vitesse ou le chiffre 30 en 6ème. Il devra alors lancer le Dé Noir à la fin du tour de jeu pour connaître l’évolution de la météo et de l’état de la piste en se reportant au barème inscrit sur le plateau.
 3-2-5. Le test météo est fait à la fin du tour de jeu.
 3-2-6. Le schéma ci-dessous résume les évolutions possibles de la météo :
 1) Si elle évolue au soleil, c’est un SOLEIL TEMPORAIRE jusqu’au prochain tirage.La piste reste ou devient sèche.
@@ -83,7 +89,7 @@ Si plusieurs pilotes ont effectué le même nombre de lancers de dé, c'est le t
 5) En cas de tirage de pluie alors que la piste est sèche, la piste devient mouillée et vice versa.
 
 
-4. Choix du stand et pdv disponibles
+4. Choix du stand et PdV disponibles
 
 4-0-1. Avant de configurer sa voiture, chaque joueur choisit son stand. Le pilote placé en pole position choisit en premier la place de son stand en y inscrivant son nom ou son n° de pilote, fourni par l’organisation, et ainsi de suite jusqu’au dernier sur la grille de départ.
 4-0-2. Chaque pilote ne dispose que d’une seule case-stand et de 2 PdV disponibles à son stand.
@@ -137,8 +143,7 @@ VITESSES / DES CASES
 7) Utilisation éventuelle du bonus de déplacement des pneus tendres 1er tour, s'il n'a pas été utilisé lors de ce coup.
 8) Aspiration éventuelle, avec retour au point 6 après chaque aspiration.
 9) Utilisation éventuelle de freins.
-10) Test des tenues de route et du muret (les tests doivent être fait théoriquement lors du déplacement mais
-pratiquement ils sont fait à la fin du déplacement).
+10) Test des tenues de route et du muret (les tests doivent être fait théoriquement lors du déplacement mais pratiquement ils sont fait à la fin du déplacement).
 11) Règles de blocage.
 12) Choix des pneus aux stands.
 13) Procédure de sortie d'un arrêt rapide ou procédure d'arrêt long avec possibilité de récupération de PdV. En cas de réussite d'un arrêt rapide et de sortie des stands, la voiture (en 4ème) peut éventuellement bénéficier d'une aspiration et retourne alors au point 6 mais sans pouvoir utiliser le bonus de déplacement des pneus tendres 1er tour.
@@ -165,8 +170,7 @@ Nota : le test météo se fait en fin de tour de jeu.
 7-2-1. Les lignes droites sont les portions de circuit entre deux virages. Suivant la longueur de chaque ligne droite, les voitures effectuent plus ou moins de déplacements avant d’entrer dans un nouveau virage.
 7-2-2. Il n’est pas obligatoire de marquer un arrêt dans une ligne droite.
 7-2-3. Dans tous les cas, le déplacement doit s’effectuer suivant la trajectoire la plus courte possible en nombres de cases dans la portion de la ligne droite. Ainsi, pour aller d’une case à une autre dans une ligne droite, la voiture doit prendre la trajectoire qui comporte le moins de cases, sauf en cas de justification du supplément de cases par le dépassement d’une voiture ou pour éviter un test de tenue de route ou de carrosserie due à un muret.
-7-2-4. Attention : Il est strictement interdit de zigzaguer ! Définition du zigzag : lors d’un déplacement, c’est le déboîtement d’un ou de plusieurs couloirs puis nouveau déboîtement d'un ou de plusieurs couloirs en revenant sur les couloirs précédant sans que cela ne soit justifié par
-un dépassement ou pour éviter un test de tenue de route.
+7-2-4. Attention : Il est strictement interdit de zigzaguer ! Définition du zigzag : lors d’un déplacement, c’est le déboîtement d’un ou de plusieurs couloirs puis nouveau déboîtement d'un ou de plusieurs couloirs en revenant sur les couloirs précédant sans que cela ne soit justifié par un dépassement ou pour éviter un test de tenue de route.
 7-2-5. Remarque : Quand vous êtes sur le couloir du milieu sur une portion de circuit à trois couloirs, le déboîtement autorisé se limite à un seul couloir. Si le pilote déboîte à gauche ou à droite et il doit alors continuer tout droit jusqu’à la fin de son déplacement sans pouvoir revenir sur le couloir central. Ceci est valable pour une piste sans obstacle (voiture ou case dangereuse).
 7-2-6. Quand un déplacement commence sur la ligne droite et se termine dans un virage ou vice et versa, le zigzag devient possible s’il respecte les codes de conduite de chacune des deux portions.
 
@@ -176,8 +180,7 @@ un dépassement ou pour éviter un test de tenue de route.
 8-0-1. Le choix des pneus est primordial autant pour les essais que pour la course. En fonction des conditions atmosphériques et de la stratégie de course, un type de pneu s’impose. Chacun d’eux a ses propres avantages suivant la météo sous laquelle ils sont employés.
 8-0-2. Lorsque l’on parle de tour dans ce chapitre, on ne fait pas référence à la voiture mais au train de pneus. ex : si une voiture change ses pneus à la fin du deuxième tour de circuits, la voiture commence son troisième tour mais ses pneus en sont seulement à leur premier tour.
 
-8-1. Pneus durs
-Ils sont conseillés sur piste sèche mais sont inefficaces sur piste mouillée.
+8-1. Pneus durs : ils sont conseillés sur piste sèche mais sont inefficaces sur piste mouillée.
 8-1-1. Piste sèche : avec des pneus durs, la conduite de la voiture et les pénalités (jet(s) de dé ou PdV) en sortie de virage sont normales pendant les essais et en course. (Par pénalité normale, on signifie que la sortie d’une case entraîne l’ajout d’un lancer de dé aux essais et l’usure d’un PdV de pneus en course).
 8-1-2. Piste mouillée : la voiture glisse de trois cases supplémentaires à chacun de ses déplacements obligatoires à l’intérieur des virages pendant les essais et en course. Les pénalités (jet(s) de dé ou PdV) en sortie de virage sont normales.
 
@@ -230,10 +233,10 @@ Pénalités Sortie de virage *1 *1 *1 *1
 
 9. Départ
 
-9-0-1. Vous êtes prêts ? Attention, le départ est donné ! Avant d’enclencher sa première vitesse, chaque pilote lance le dé noir pour savoir s’il fait éventuellement un mauvais ou un super départ.
+9-0-1. Vous êtes prêts ? Attention, le départ est donné ! Avant d’enclencher sa première vitesse, chaque pilote lance le Dé Noir pour savoir s’il fait éventuellement un mauvais ou un super départ.
 
 9-1. 1 au dé : mauvais départ
-9-1-1. Le pilote a raté son départ car son moteur a calé. Il ne peut pas jouer sa 1ère et ne démarre pas. Il attendra le prochain tour pour passer sa 1ère vitesse et démarrer normalement, sans tirer une nouvelle fois le dé noir.
+9-1-1. Le pilote a raté son départ car son moteur a calé. Il ne peut pas jouer sa 1ère et ne démarre pas. Il attendra le prochain tour pour passer sa 1ère vitesse et démarrer normalement, sans tirer une nouvelle fois le Dé Noir.
 9-1-2. Les tests d'accrochage avec une voiture en calage deviennent des tests aggravés (cf 14-3 Test de carrosserie aggravée).
 9-1-3. Si le cas de départage de l'ordre de jeu du point 6-2-4 se présente avec une voiture qui a calé, l'autre voiture doit jouer avant la voiture qui a calé.
 
@@ -283,7 +286,7 @@ Ligne : Type de pneus.
 10-4-3. Les tests d'accrochage avec une voiture en tête à queue deviennent des tests aggravés (cf 14-3. Test de carrosserie aggravée).
 10-4-4. L’aspiration ne fonctionne pas sur une voiture en tête à queue.
 10-4-5. Une voiture en tête à queue doit faire ses tests moteurs si sa vitesse actuelle est la 5ème ou la 6ème.
-10-4-6. Redémarrage après un tête à queue : Au tour de jeu du joueur après le tête à queue, le joueur lance d'abord le dé noir. S'il fait "1", il cale et attend le tour de jeu suivant pour démarrer en 1ère vitesse. S'il fait "20", il avance sa voiture de 4 cases et attend le tour de jeu suivant pour jouer en 1ère ou en 2ème vitesse. S'il fait un autre nombre, il peut démarrer de suite en 1ère vitesse.
+10-4-6. Redémarrage après un tête à queue : Au tour de jeu du joueur après le tête à queue, le joueur lance d'abord le Dé Noir. S'il fait "1", il cale et attend le tour de jeu suivant pour démarrer en 1ère vitesse. S'il fait "20", il avance sa voiture de 4 cases et attend le tour de jeu suivant pour jouer en 1ère ou en 2ème vitesse. S'il fait un autre nombre, il peut démarrer de suite en 1ère vitesse.
 10-4-7. Remarque : Si le cas de départage de l'ordre de jeu du point 6-2-4 se présente avec une voiture en tête à queue, la comparaison de vitesse se fait avec la 1ère vitesse où le joueur a positionné son levier au début du tour.
 
 
@@ -334,13 +337,13 @@ Nombre de vitesses sautées Consommation Freins Moteur
 
 14. Accrochage
 
-14-1. Test de carrosserie : lorsqu’une voiture termine son déplacement sur une case située à côté ou derrière une ou plusieurs autres voitures (mais pas devant), il y a risque d’accrochage. Pour déterminer si une voiture s’est accrochée avec une autre, les pilotes concernés tirent chacun le dé noir. Ceux qui obtiennent le chiffre 1 au dé sur piste sèche ou 1 à 2 sous piste mouillée ont endommagé leur voiture et perdent un PdV de carrosserie. Un autocollant de case dangereuse est alors placé sous la voiture concernée. Lorsqu’une voiture perd son dernier PdV de carrosserie, le pilote vient de détruire sa voiture et est éliminé de la course.
+14-1. Test de carrosserie : lorsqu’une voiture termine son déplacement sur une case située à côté ou derrière une ou plusieurs autres voitures (mais pas devant), il y a risque d’accrochage. Pour déterminer si une voiture s’est accrochée avec une autre, les pilotes concernés tirent chacun le Dé Noir. Ceux qui obtiennent le chiffre 1 au dé sur piste sèche ou 1 à 2 sous piste mouillée ont endommagé leur voiture et perdent un PdV de carrosserie. Un autocollant de case dangereuse est alors placé sous la voiture concernée. Lorsqu’une voiture perd son dernier PdV de carrosserie, le pilote vient de détruire sa voiture et est éliminé de la course.
 
 14-2. Elimination : un pilote éliminé sur carrosserie mettra un autocollant de case dangereuse sous sa voiture et attendra son prochain tour de jeu pour la retirer de la piste.
 
 14-3. Test de carrosserie aggravée : en attendant de l’enlever, si la voiture éliminée est de nouveau impliquée dans un accrochage avec une ou plusieurs voitures, les probabilités d’accrochage à jouer pour ces dernières sont aggravées : 1 à 2 sur piste sèche et de 1 à 3 sur piste mouillée. De même, lorsqu’une voiture en tête à queue, éliminée sur blocage ou en calage lors du départ est impliquée dans un accrochage, toutes les voitures concernées jouent avec ces même probabilités aggravées.
 
-14-4. Important : le pilote qui provoque l’accrochage tire le dé en dernier. S’il a provoqué l’élimination d’une ou plusieurs voitures, il perdra d’office, sans tirer le dé noir, autant de PdV de carrosserie que de pilote(s) éliminé(s). Mais son nombre de tests carrosserie sera diminué d’autant.
+14-4. Important : le pilote qui provoque l’accrochage tire le dé en dernier. S’il a provoqué l’élimination d’une ou plusieurs voitures, il perdra d’office, sans tirer le Dé Noir, autant de PdV de carrosserie que de pilote(s) éliminé(s). Mais son nombre de tests carrosserie sera diminué d’autant.
 
 14-5. Exemple : la voiture C et D font leur test de carrosserie mais pas la voiture B car la voiture A est juste devant elle. La voiture A devra faire ensuite ses deux tests de carrosserie sauf s’il y a élimination d’une des voitures C et D. - Si C ou D est éliminé, A perd une carrosserie automatiquement et doit faire un test. - Si C et D sont tous les deux éliminés alors A perd deux carrosseries et ne fait pas de test.
 
@@ -357,8 +360,8 @@ Nombre de vitesses sautées Consommation Freins Moteur
 
 16. Casse moteur
 
-16-0-1. Quand un pilote sort le chiffre 20 au dé en 5ème ou 30 en 6ème, il pousse son moteur à fond. Après avoir déplacé sa voiture, il doit tirer le dé noir pour tester la robustesse de son moteur, tout comme l’ensembledes pilotes qui se trouvent en 5ème et 6ème à cet instant. L’ordre des voitures sur la piste détermine l’ordre dans lequel est fait ce test moteur.
-16-0-2. Les pilotes qui obtiennent un chiffre de 1 à 4 au dé noir sous le soleil, ou 1 à 3 sous la pluie, font perdre 1 PdV de moteur à leur voiture.
+16-0-1. Quand un pilote sort le chiffre 20 au dé en 5ème ou 30 en 6ème, il pousse son moteur à fond. Après avoir déplacé sa voiture, il doit tirer le Dé Noir pour tester la robustesse de son moteur, tout comme l’ensembledes pilotes qui se trouvent en 5ème et 6ème à cet instant. L’ordre des voitures sur la piste détermine l’ordre dans lequel est fait ce test moteur.
+16-0-2. Les pilotes qui obtiennent un chiffre de 1 à 4 au Dé Noir sous le soleil, ou 1 à 3 sous la pluie, font perdre 1 PdV de moteur à leur voiture.
 16-0-3. Lorsqu’une voiture perd son dernier PdV de moteur, le moteur casse et la voiture est éliminée. Un pilote éliminé sur casse moteur mettra un autocollant "case dangereuse" sous sa voiture et devra jouer l’inertie du déplacement à son prochain tour de jeu. Pour cela, il jouera alors une dernière fois un dé, celui de la 4ème vitesse. Il déplacera sa voiture pour aller sur la case la plus loin possible (cf. 12-1-3) qui ne l'élimine pas, si possible, par sortie de route et posera un nouvel autocollant sous sa voiture. En cas de blocage, il essaie de l'éviter au maximum en utilisant ce qui lui reste de pneus et de freins. Au prochain tour de jeu, il retirera sa voiture. Dans un virage l’inertie doit respecter le fléchage.
 16-0-3-1. Si la voiture se retrouve en quatrième ou moins pour une raison ou une autre (sur-régime avec casse du dernier moteur ou tête à queue), il n’y a pas d’inertie. Par conséquence la voiture est éliminée immédiatement (au moment où la manette est mise en première ou en seconde) et elle est aussitôt retirée de la piste.
 16-0-4. S’il y a accrochage, les probabilités de dommages sont normales.
@@ -372,7 +375,7 @@ Nombre de vitesses sautées Consommation Freins Moteur
 17. Tenue de route
 
 17-0-1. A chaque fois qu’une voiture perd un point de carrosserie ou moteur, la case sur laquelle s’est produit l’incident devient dangereuse. Cette case dangereuse doit être signalée visuellement par un autocollant.
-17-0-2. Si une voiture vient à entrer sur cette case, le pilote devra tirer le dé noir pour évaluer les dommages occasionnés sur la TENUE DE ROUTE. S’il tire un chiffre de 1 à 4 sur piste sèche et de 1 à 5 sur piste mouillée, il perd un PdV de Tenue de Route et le raye de sa feuille de course. Au dernier PdV de Tenue de Route perdu, la voiture est éliminée de la course.
+17-0-2. Si une voiture vient à entrer sur cette case, le pilote devra tirer le Dé Noir pour évaluer les dommages occasionnés sur la TENUE DE ROUTE. S’il tire un chiffre de 1 à 4 sur piste sèche et de 1 à 5 sur piste mouillée, il perd un PdV de Tenue de Route et le raye de sa feuille de course. Au dernier PdV de Tenue de Route perdu, la voiture est éliminée de la course.
 17-0-3. Une voiture éliminée sur une tenue de route est aussitôt retirée de la piste. On ne pose pas d'autocollant case dangereuse sur la case d’élimination.
 
 17-1. Remarque : Les cases dangereuses qui parsèment ainsi la piste sont alors des obstacles que vous pouvez éviter en déboîtant votre voiture d’un couloir.
@@ -459,7 +462,7 @@ en vitesse #
 
 19-3. Arrêt rapide
 19-3-1. Il permet seulement de régénérer seulement les PdV de pneus ou de changer de pneus, y compris pour des pneus de même type et ce même si ceux-ci étaient neufs.
-19-3-2. Dès qu’il a régénéré ses pneus, le pilote lance le dé noir pour déterminer avec quelle rapidité ses mécaniciens ont effectué le changement de pneus :
+19-3-2. Dès qu’il a régénéré ses pneus, le pilote lance le Dé Noir pour déterminer avec quelle rapidité ses mécaniciens ont effectué le changement de pneus :
 19-3-3. 1 à 10 au dé : ARRET RAPIDE REUSSI. Super ! Vos mécaniciens sont des as et ils n’ont pas perdu de temps. Le pilote divise par 2 le chiffre obtenu au dé, en arrondissant si nécessaire au chiffre supérieur. Le résultat indique le nombre de cases que parcourt immédiatement la voiture en sortant du stand. La sortie s’effectue automatiquement en 4ème vitesse. Au prochain tour, le pilote pourra choisir sa vitesse normalement, donc en dépensant un PdV de Consommation s'il souhaite passer une 2ème.
 19-3-4. 11 à 20 au dé : ARRET RAPIDE MANQUE. Aïe ! Vos mécaniciens n’ont pas beaucoup dormi la nuit dernière… La voiture est immobilisée sur le stand jusqu’à son prochain tour, le pilote repartira en 4ème vitesse maximum, ou moins s’il le désire. Sauf, bien sur, en première (points 19-1-9).
 19-3-5. Important : Une voiture chaussée de pneus tendres ne peut pas rajouter le bonus d’une case sur le chiffre de sortie lors d’un arrêtrapide réussi.
@@ -495,7 +498,7 @@ en vitesse #
 20-3. Elimination par carrosserie
 20-3-1. Lorsqu’une voiture perd son dernier PdV de carrosserie, le pilote vient de détruire sa voiture et est éliminé de la course.
 20-3-2 - Un pilote éliminé sur carrosserie mettra un autocollant de case dangereuse sous sa voiture et attendra son prochain tour de jeu pour la retirer de la piste.
-20-3-3 - Le pilote qui provoque l’accrochage tire le dé en dernier. S’il a provoqué l’élimination d’une ou plusieurs voitures, il perdra d’office, sans tirer le dé noir, autant de PdV de carrosserie que de pilote(s) éliminé(s). Mais son nombre de tests carrosserie sera diminué d’autant.
+20-3-3 - Le pilote qui provoque l’accrochage tire le dé en dernier. S’il a provoqué l’élimination d’une ou plusieurs voitures, il perdra d’office, sans tirer le Dé Noir, autant de PdV de carrosserie que de pilote(s) éliminé(s). Mais son nombre de tests carrosserie sera diminué d’autant.
 
 20-4. Elimination par casse moteur
 20-4-1. Lorsqu’une voiture perd son dernier PdV de moteur, le moteur casse et est éliminée si la casse intervient avant la fin du dernier virage de la course (voir point 16-0-6 pour plus de détails).
