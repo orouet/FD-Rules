@@ -135,3 +135,93 @@ Les règles de rétrogradation, d’accrochage, de freinage et de casse moteur n
 L’arrivée
 Le joueur dont la voiture franchit la première la ligne d’arrivée (après 2 tours de course) est le vainqueur de la course. Celle-ci se termine quand toutes les voitures ont franchi la ligne d’arrivée : on peut alors déterminer un classement.
 
+
+REGLES OPTIONNELLES
+
+Toutes ces règles peuvent être utilisées indépendamment les unes des autres.
+
+Construction de la voiture
+Vous pouvez désormais répartir vos 20 PS à votre convenance dans les 6 catégories qui composent votre voiture. Il vous faut cependant respecter les limitations suivantes :
+PS pneus : entre 1 et 14
+PS freins : entre 1 et 7
+PS Boîte de vitesse : entre 1 et 7
+PS Carrosserie : entre 1 et 7
+PS Moteur : entre 1 et 7
+PS Tenue de route : entre 1 et 7
+
+
+Essais chronométrés
+Pour déterminer les positions sur la grille de départ, chaque joueur (l’un après l’autre) effectue un tour de circuit chronométré. Durant les essais, les règles de déplacement et le code de conduite sont appliqués normalement, mais les PS n’entrent pas en ligne de compte. Seules les sorties de virage donnent lieu à des pénalités (voir ci-dessous). Un des joueurs est désigné comme étant le commissaire de course. Il se munit d’un papier, d’un crayon et d’un chronomètre.
+
+Le joueur qui réalise ses essais place sa voiture sur la case du milieu, juste avant la ligne de départ.
+Avant de lancer le dé de la 1re vitesse, le commissaire enclenche le chronomètre.
+Le commissaire comptabilise ensuite le nombre de jets de dés nécessaire pour couvrir le tour de circuit. Le chronomètre est arrêté une fois que la voiture a franchi la ligne d’arrivée.
+Il note la durée exacte indiquée sur le chronomètre et ajoute 1 « jet de dé » par minute complète utilisée par le joueur pour terminer son tour de circuit.
+Pour finir, il ajoute 1 « jet de dé » pour chaque case dépassée en sortie de virage.
+Attention : dans le cas d’un virage à 2 ou 3 arrêts, si le joueur n’en marque aucun, son essai est terminé et il partira en dernière position sur la grille de départ.
+On détermine ensuite le classement de chaque voiture :
+La voiture placée en premier sur la grille de départ est celle qui a parcouru le tour de circuit en utilisant le moins de jets de dé. On continue ensuite par ordre décroissant de jets de dé. En cas d’égalité de jets de dé, on détermine le classement en prenant en compte le temps de jeu chronométré (le joueur le plus rapide ayant la place la plus proche de la ligne de départ).
+
+
+Course en trois tours
+La voiture qui remporte la course est celle qui franchit la ligne d’arrivée après avoir effectué 3 tours de circuit. Il est possible de s’arrêter au stand deux fois au cours de la course.
+
+Conditions climatiques
+Chaque circuit de Formula D possède une table de météo qu’on utilise avant la partie pour connaître les conditions climatiques aussi bien lors de la course que pendant les essais. Si vous utilisez les règles de conditions climatiques, il est fortement conseillé d’utiliser aussi les règles de choix des pneumatiques. Avant que les essais ne commencent, on lance le dé noir et on consulte la table de météo :
+Beau temps : aucun problème pour rouler.
+Variable : le ciel est menaçant, mais cela n’affecte pas les essais.
+Pluie : les essais de tous les joueurs se déroulent sous la pluie (voir ci-dessous).
+Ensuite, juste avant de commencer la course proprement dite, on lance à nouveau le dé noir et on consulte la table de météo :
+Beau temps : aucun problème.
+Variable : au début de la course, le temps est couvert mais il ne pleut pas. Cela peut néanmoins changer au cours de la course. Chaque fois qu’un joueur obtient le résultat 20 en 5e ou le résultat 30 en 6e, il doit lancer le dé noir et consulter la table de météo :
+- Si le résultat est « beau temps », on décale d’une ligne vers le haut les conditions météorologiques.
+- Si le résultat est « pluie », on décale d’une ligne vers le bas les conditions météorologiques.
+- Si le résultat est « variable », le temps reste le même.
+Conditions météorologiques Effet sur la course
+Beau temps Aucun (définitif)
+Variable Aucun
+Pluie variable Pluie
+Pluie Pluie (définitif)
+Pluie : toute la course se déroule sous la pluie.
+
+Effets de la pluie
+L’accrochage : il a lieu sur un résultat de 1 à 2 (au lieu de 1 lorsqu’il fait beau).
+La casse moteur : elle a lieu sur un résultat de 1 à 3 (au lieu de 1 à 4 lorsqu’il fait beau).
+La tenue de route : la voiture perd un PS tenue de route sur un résultat de 1 à 5 (au lieu de 1 à 4 lorsqu’il fait beau).
+
+Le choix des pneumatiques
+Le choix des pneus est primordial aussi bien pendant les essais que durant la course. Une fois les conditions météorologiques déterminées, chaque joueur peut équiper sa voiture de pneus particuliers (voir ci-dessous). Il peut parfaitement changer de pneus entre les essais et la course.
+Les pneus durs : ils sont conseillés s’il fait beau mais sont inefficaces sous la pluie.
+• Si le temps est beau ou variable, les règles du jeu ne changent pas.
+• S’il pleut, la voiture se déplace de 3 cases supplémentaires à chaque déplacement dont au moins une case est effectuée dans les limites d’un virage.
+
+Les pneus tendres : ils sont vivement conseillés s’il ne pleut pas et s’avèrent inefficaces voire handicapants dans le cas contraire.
+• Si le temps est beau ou variable, la voiture peut avancer d’une case supplémentaire lors de chaque déplacement pendant les essais ou pendant un tour de course. Ce déplacement supplémentaire est facultatif. Par contre, vous doublez vos pénalités en sortie de virage (PS pneus perdus) pendant cette même durée. Si vous ne changez pas vos pneus au stand à la fin du premier tour, vous ne bénéficiez plus du bonus. Si vous ne changez pas vos pneus au stand à la fin du deuxième tour, les pénalités de sortie de virage sont triplées.
+• S’il pleut, la voiture se déplace de 3 cases supplémentaires à chaque déplacement dont au moins une case est effectuée dans les limites d’un virage durant les essais et les deux premiers tours de course. Si vous ne changez pas vos pneus au stand avant le début du troisième tour, les pénalités de sortie de virage sont triplées durant celui-ci. Si vous choisissez des pneus tendres, placez sur votre fiche de spécifications un marqueur de débris face « soleil » visible.
+
+Les pneus pluie : ils sont conseillés en cas de pluie mais s’avèrent fragiles dans les autres cas.
+• Si le temps est beau ou variable, vous doublez vos pénalités en sortie de virage (PS pneus perdus) pendant les essais et pendant les 2 premiers tours de course. Si vous attaquez un troisième tour de course sans changer les pneumatiques, les pénalités sont triplées.
+• S’il pleut, la voiture se déplace d’une case supplémentaire à chaque déplacement dont au moins une case est effectuée dans les limites d’un virage. Si vous choisissez des pneus pluie, placez sur votre fiche de spécifications un marqueur de débris face « pluie » visible.
+
+
+Arrêts au stand
+Votre stand dispose désormais de 2 PS génériques qui peuvent être dépensés pendant la course pour récupérer des PS perdus (autre que les PS pneus). Chaque fois que vous vous arrêtez au stand, vous avez le choix entre deux options :
+Arrêt pneus : comme dans les règles complètes à la différence que vous pouvez changer le type de pneus qui équipe vos voitures à chaque changement de pneus.
+Arrêt technique : vous pouvez changer de pneus (comme ci-dessus), mais en plus, vous pouvez récupérer jusqu’à 2 PS dans une ou deux catégories autres que les pneus. Ce « pool » de 2 PS est valable pour toute la durée de la course, même si elle dure plus de 2 tours. Vous redémarrez au tour suivant en 4e vitesse (au maximum).
+Une voiture équipée de pneus tendres ne bénéficie pas de son bonus d’une case supplémentaire lors de sa sortie des stands.
+
+
+Course par équipe
+Utilisez cette règle si le nombre de joueurs est pair et important. Les joueurs sont regroupés en écuries de deux joueurs (prenez soin d’associer chaque couleur de voiture à une écurie). Les règles sont inchangées à deux différences près :
+Arrêt au stand : chaque écurie dispose de 4 PS pour réparer les voitures, mais les deux joueurs doivent décider comment ils sont dépensés.
+Victoire aux points : dans une course par équipe, ce n’est pas la voiture qui arrive en tête qui remporte obligatoirement la course. Chaque voiture reçoit un certain nombre de points et l’équipe gagnante est celle dont le total de points est le plus haut.
+Place Nombre de points
+1er 10
+2e 8
+3e 6
+4e 5
+5e 4
+6e 3
+7e 2
+8e 1
+9e et 10e 0
