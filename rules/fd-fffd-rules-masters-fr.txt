@@ -124,14 +124,14 @@ REGLES DE COMPETITION
 6-2-3. Important : Lorsque deux voitures se trouvent au même niveau sur la piste, c'est la voiture dont le rapport de vitesse est le plus élevé qui jouera en premier. Si les 2 voitures ont le même rapport, celle arrivée la première jouera d'abord.
 6-2-4. Attention : Un cas particulier se présente avec les stands, ce cas sera traité plus loin (19-5 - ordre de jeu pour l'arrêt aux stands). Lorsqu'un cas particulier se présente, c'est toujours le cas particulier qui prévaut sur la règle générale.
 6-2-5. Ordre de jeu lorsqu'un joueur se fait prendre un tour. Lorsqu'un pilote se fait prendre un tour de circuit par un autre pilote, il ne rejoue pas avant le pilote qui le dépasse. L'ordre du tour de jeu commence par le pilote en tête de course et est poursuivi dans l'ordre des voitures sur la piste jusqu'à la voiture immédiatement devant la voiture de tête (une piste de Formule Dé est une boucle). Donc le pilote à la traîne effectue un coup de moins que le pilote qui le rattrape. Mais si le pilote retardataire redouble le pilote de tête, il récupère son coup perdu précédemment et joue donc deux coups dans le même tour de jeu.
-
-VITESSES / DES CASES
-1ère 1 à 2
-2ème 2 à 4
-3ème 4 à 8
-4ème 7 à 12
-5ème 11 à 20
-6ème 21 à 30
+6-2-6. Table des dés de vitesse
+| Vitesse | Cases |
+| 1ère | 1 à 2 |
+| 2ème | 2 à 4 |
+| 3ème | 4 à 8 |
+| 4ème | 7 à 12 |
+| 5ème | 11 à 20 |
+| 6ème | 21 à 30 |
 
 6-3. Ordre du coup d'un joueur
 1) Annonce de la vitesse qu'il enclenche.
@@ -193,43 +193,6 @@ Nota : le test météo se fait en fin de tour de jeu.
 8-3-1. Piste sèche : les pénalités (jet(s) de dé ou PdV) en sortie de virage aux essais et en course sont multipliées par deux durant les deux premiers tours. Si la voiture ne s'arrête pas au stand après deux tours avec le même train de pneus pluie, les pénalités en sortie de virage durant le 3ème tour sont multipliées par trois quel que soit l'antécédent météorologique.
 8-3-2. Piste mouillée : la voiture glisse seulement d’une case supplémentaire à chacun de ses déplacements obligatoires à l’intérieur des virages pendant les essais et en course. Les pénalités (jet(s) de dé ou PdV) en sortie de virage sont normales.
 
-8-5. Tableaux des bonus et des Pénalités
-Essai Course
-Pneus durs 1er tour 2ème tour 3ème tour
-Bonus Virages - - - -
-Déplacement Lignes droites - - - -
-Piste Sèche
-Pénalités Sortie de virage *1 *1 *1 *1
-Glissade Virages +3 +3 +3 +3
-Lignes droites - - - -
-Piste
-Mouillée
-Pénalités Sortie de virage *1 *1 *1 *1
-Essai Course
-Pneus tendres 1er tour 2ème tour 3ème tour
-Bonus Virages +1 +1 - -
-Déplacement Lignes droites +1 +1 - -
-Piste Sèche
-Pénalités Sortie de virage *2 *2 *2 *3
-Glissade Virages +3 +3 +3 +3
-Lignes droites - - - -
-Piste
-Mouillée
-Pénalités Sortie de virage *2 *2 *2 *3
-Essai Course
-Pneus pluie 1er tour 2ème tour 3ème tour
-Bonus Virages - - - -
-Déplacement Lignes droites - - - -
-Piste Sèche
-Pénalités Sortie de virage *2 *2 *2 *3
-Glissade Virages +1 +1 +1 +1
-Lignes droites - - - -
-Piste
-Mouillée
-Pénalités Sortie de virage *1 *1 *1 *1
-
-8-5-1. Les bonus sont optionnels alors que la glissade est obligatoire.
-
 
 9. Départ
 
@@ -250,26 +213,6 @@ Pénalités Sortie de virage *1 *1 *1 *1
 10. Sortie de virage
 
 10-0-1. A chaque fois qu’une voiture dépasse les limites d’un virage en ayant marqué un arrêt de moins que le nombre d’arrêt(s) imposé, on considère qu’elle effectue une sortie de virage. Elle perd alors un nombre de PdV de pneus égal au nombre de cases sorties multiplié par le facteur de pénalité du type de pneus de la voiture suivant l'état de la piste, indiqué au chapitre 8 (pneus durs, tendres et pluie).
-10-0-2. Tableau Récapitulatif
-1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
-Pneus Durs 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
-Pneus Tendres
-1er et 2nd Tour 2 4 6 8 10 12 14 16 - - - - - - - - -
-Pneus Tendres
-3ème Tour 3 6 9 12 15 - - - - - - - - - - - -
-Pneus Pluies
-Piste Mouillée 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
-Pneus Pluies
-Piste Sèche
-1er et 2nd Tour
-2 4 6 8 10 12 14 16 - - - - - - - -
-Pneus Pluies
-Piste Sèche
-3ème Tour
-3 6 9 12 15 - - - - - - - - - - - -
-Colonne : Nombre de cases de sortie
-Ligne : Type de pneus.
-10-0-3. Exemple : Une voiture sortant d'un virage de trois cases perd : - Trois PdV pneus durs. - Six PdV pneus tendres au premier ou second tour du train de pneus. - Neuf PdV pneus tendres au troisième tour du train de pneus. - Trois PdV pneus pluies sur piste mouillée,quel que soit le nombre de tour fait avec ce train de pneus. - Six PdV pneus pluies sur piste sèche au premier ou second tour du train de pneus. - Neuf PdV pneus pluies sur piste sèche au troisième tour su train de pneus.
 
 10-1. Important : Dans le cas d’un virage à deux arrêts, si le pilote ne marque aucun arrêt dans les bornes, sa voiture est automatiquement éliminée sur sortie de route. Dans le cas d’un virage à trois arrêts, si le pilote ne marque aucun ou seulement un arrêt, c’est aussi l’élimination automatique sur sortie de route.
 
@@ -311,16 +254,6 @@ Ligne : Type de pneus.
 12-1-4. La voiture rayant son dernier PdV de pneus lors d'un blocage effectue un tête-à-queue. Se reporter au point 10-4 pour suivre la procédure.
 12-1-5. Les voitures au contact avec la voiture ayant abandonné sur blocage effectuent un test de carrosserie aggravé (cf 14-3) sauf celle qui a perdu un point de carrosserie automatique.
 
-12-2. Exemples :  La voiture X en pneus pluies ou en pneus tendres vient de faire 14 sur piste sèche et doit encore parcourir cinq cases après le blocage. Donc le pilote devra consommer trois PdV freins et deux PdV pneus pour assumer son blocage.
-CASES FREINS PNEUS
-1 1 0
-2 2 0
-3 3 0
-4 3 1
-5 3 2
-6 3 3
-7 Elimination Elimination
-
 
 13. Sur-régime
 
@@ -329,10 +262,12 @@ CASES FREINS PNEUS
 13-2. Important : Il est interdit de rétrograder en sautant 4 vitesses (soit de la 6ème en 1ère).
 
 13-3. Autocollant de case dangereuse : l’usure d’un PdV de moteur lorsqu’une voiture rétrograde violemment entraîne la pose d’un autocollant de case dangereuse sur la case de début de coup, là où la rétrogradation a été effectuée.
-Nombre de vitesses sautées Consommation Freins Moteur
-1 vitesse (Ex. : 6ème en 4ème) 1 0 0
-2 vitesse (Ex. : 5ème en 2ème) 1 1 0
-3 vitesse (Ex. : 6ème en 2ème) 1 1 1
+
+13-4. Table de sur-régime
+| Nombre de vitesses sautées | Consommation | Freins Moteur |
+| 1 vitesse (Ex. : 6ème en 4ème) | 1 | 0 | 0 |
+| 2 vitesse (Ex. : 5ème en 2ème) | 1 | 1 | 0 |
+| 3 vitesse (Ex. : 6ème en 2ème) | 1 | 1 | 1 |
 
 
 14. Accrochage
@@ -417,26 +352,6 @@ c') S'il y a une voiture C, la voiture B peut très bien déboîter d'un couloir
 18-3-2. Lorsque le bonus de +1 des pneus tendres est utilisé lors d'un déplacement d'aspiration qui permet de rentrer dans un virage, la voiture consomme 1 PdV Frein comme prévu au point 18-1-4 même si le bonus de +1 des pneus tendres est le dernier élément qui permet de rentrer.
 18-3-3. Les déboîtements résultant d’une ou plusieurs aspirations successives ne sont pas considérées comme un zigzag. Les mouvements relatifs à l’aspiration se gèrent en effet indépendamment du mouvement préalable.
 
-18-4. Tableau Récapitulatif
-La voiture A est en vitesse #
-1, 2, 3 4 5 6
-1, 2, 3 NON NON NON NON
-4 NON OUI NON NON
-5 NON OUI OUI NON
-La voiture B est
-en vitesse #
-6 NON OUI OUI OUI
-
-18-5. Exemples
-18-5-0. Toutes les voitures sont en quatrième.
-18-5-1. La voiture X, en pneus tendres sur piste sèche, vient de faire 7 en quatrième et peut donc prendre une première aspiration en A. Elle avance de trois cases et arrive en B, le pilote décide d'utiliser son pneu tendre et arrive en C pour une seconde aspiration. Cette seconde aspiration la fait arriver en D, et le pilote barre un PdV de frein sur sa configuration car sa voiture vient de rentrer dans un virage grâce à une aspiration. Maintenant le pilote décide de faire une troisième aspiration et arrive en F mais il ne consomme pas à nouveau un PdV Frein car l'aspiration est réalisée dans le virage.
-18-5-2. La piste est mouillée et la voiture X fait 14 en cinquième avec des pneus pluies. La voiture finit son déplacement principal en D, elle doit d'abords faire sa glissade et arrive en E. Ensuite, le pilote peut décider de faire l'aspiration et arriver en G car il a déjà fait sa glissade dans son mouvement donc il ne refait pas une seconde glissade sur son aspiration.
-18-5-3. La piste est mouillée et la voiture X vient de faire 11 en cinquième avec des pneus pluies. Donc, la voiture arrive en C pour faire sa première aspiration. En arrivant en D, le pilote barre un PdV Frein et doit faire sa glissade due à la piste est mouillée, car il n'a pas encore effectué sa glissade ce tour ci ; il arrive donc en E. Le pilote peut décider de faire une seconde aspiration et arriver en G car il a déjà fait sa glissade et donc il ne refait pas une seconde glissade sur sa seconde aspiration.
-18-5-4. Une voiture arrivant en H et qui prend l'aspiration, ne peut pas utiliser un frein pour reprendre une seconde aspiration en I.
-18-5-5. Une voiture en pneus tendres arrivant en I sous piste sèche peut arriver en K. Elle prend une aspiration de trois cases et arrive en J, puis grâce au bonus des pneus tendres arrive en K. Même si le dernier déplacement est dû au bonus des pneus tendres, la voiture à utilisée une aspiration AVANT de rentrer dans le virage et doit donc rayer un PdV de frein sur sa configuration.
-18-5-6. Une voiture arrivant en K, sur piste sèche, peut prendre l'aspiration mais doit utiliser un frein pour arriver en L car la voiture se trouve en situation de blocage due à la sortie de virage provoquée par l'aspiration.
-18-5-7. Une voiture arrivant en L et se trouvant en sortie de virage ne peut pas prendre l'aspiration car une voiture en sortie de virage ne peut déboîter de son couloir.
-
 
 19. Arrêts aux stands et ordre de jeu : pour regagner des PdV ou changer son train de pneus, il faut s’arrêter à son stand.
 
@@ -510,14 +425,6 @@ en vitesse #
 20-5-2. Une voiture éliminée sur une tenue de route est aussitôt retirée de la piste. On ne pose pas d’autocollant tenue de route sur la case d’élimination(Et pour cause, il y en a déjà une !).
 
 20-6. Test de carrosserie avec une voiture éliminée : Si une voiture éliminée sur carrosserie ou par blocage est impliquée dans un accrochage avec une ou plusieurs voitures, les probabilités d’accrochage à jouer pour ces dernières sont aggravées : 1 à 2 sur piste sèche, 1 à 3 sur piste mouillée.
-
-20-7. Table récapitulatif
-Elimination Retrait Immédiat Test Aggravé de Carro. Autocollant
-sortie de route OUI NON NON
-blocage NON OUI OUI
-carrosserie NON OUI OUI
-casse moteur NON NON OUI
-tenue de route OUI NON NON
 
 
 21. Arrivée
