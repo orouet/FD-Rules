@@ -1,0 +1,137 @@
+But du jeu
+
+FORMULA D est un jeu sur la course automobile. Le but est de gagner une course (sur 2 tours) en franchissant le premier la ligne d’arrivée. Pour cela, il vous faudra prendre des risques et anticiper les évènements de la course. Vous devrez décider d’une stratégie mais aussi compter sur la chance, respecter le code de conduite et surveiller de près l’état mécanique de votre voiture.
+
+
+Matériel
+
+Le matériel utilisé dans les règles complètes est le suivant :
+1 plateau de jeu présentant le circuit de Monaco ;
+6 dés de couleur correspondant aux 6 vitesses de la voiture ;
+1 dé noir pour déterminer les dommages mécaniques subis par les voitures ou tout autre événement imprévu ;
+1 livret de règles complètes ;
+10 voitures de type F1 réparties en 5 couleurs représentant 5 écuries ;
+10 tableaux de bord ;
+10 pions « leviers de vitesse » ;
+10 fiches de spécifications (face F1 visible) ;
+60 marqueurs représentant les Points de Structure (PS) des voitures.
+20 marqueurs de case de débris.
+
+
+Principes de base
+
+Les vitesses
+Une voiture possède 6 vitesses. À chaque vitesse correspond un dé différent. La numérotation des faces de chaque dé indique le déplacement de la voiture en nombre de cases. Plus vous montez en vitesse, plus le dé correspondant vous fera avancer vite et loin (voir ci-dessous la table de progression). En accélération, il est interdit de sauter une vitesse (exemple : passer directement de 1re en 3e). En décélération, il est possible de rétrograder en sautant 1, 2, ou 3 vitesses (exemple : passer de 6e en 4e ou de 4e en 1re) mais il en coûtera des pénalités (voir page 6).
+
+Les déplacements
+Comme dans la réalité, une voiture démarre en 1re, puis passe en 2e et ainsi de suite jusqu’en 6e pour avancer de plus en plus vite. Le joueur, à son tour de jeu, doit procéder comme suit : il annonce la vitesse qu’il enclenche, puis positionne son levier sur son tableau de bord et ensuite seulement lance le dé correspondant à la vitesse choisie. Il déplace enfin sa voiture du nombre de cases indiqué par le dé. À la fin de son déplacement, on dit que la voiture marque un « arrêt ». Cette notion sera importante dans les virages (voir page 5).
+
+Ordre des déplacements : à chaque nouveau tour de jeu, les joueurs jouent dans l’ordre déterminé par la position de leur voiture sur la piste.
+
+Égalité des positions : lorsque deux voitures se trouvent au même niveau sur la piste, c’est la voiture dont le rapport de vitesse est le plus élevé qui jouera en premier. Si les 2 voitures ont le même rapport, c’est celle qui est le plus à la corde du prochain virage (ou du virage en cours) qui jouera en premier.
+
+Le code de conduite
+Les voitures se déplacent sur les couloirs du circuit en respectant un code de conduite dans les virages et un autre dans les lignes droites. Avant tout, il est interdit de sauter par-dessus une voiture : vous devez la contourner. Il est également interdit de reculer.
+
+Le code de conduite dans les virages
+Pour négocier un virage ou un enchaînement de virages, une voiture doit marquer, à l’intérieur des limites du virage, le nombre d’arrêts minimum indiqué par le cadre jaune. Une fois que le ou les arrêts obligatoires ont été effectués, la voiture peut quitter le virage normalement au tour suivant. Pour mieux négocier un virage, tenez compte des indications en nombre de cases fournies par le cadre vert pour la trajectoire la plus longue et par le cadre rouge pour la trajectoire la plus courte.
+
+Le code de conduite dans les lignes droites
+Les lignes droites sont les portions de circuit entre deux virages. Suivant la longueur de chaque ligne droite, les voitures effectuent plus ou moins de déplacements avant d’entrer dans un nouveau virage.
+
+Important : dans tous les cas, votre déplacement doit s’effectuer en suivant la trajectoire la plus courte possible en nombre de cases.
+
+
+Les Points de Structure (PS)
+Ils déterminent la capacité de votre voiture à se maintenir en piste en fonction des événements auxquels elle sera confrontée durant la course. Chaque voiture commence la partie avec un certain nombre de PS répartis dans 6 catégories. Dans les règles complètes de Formule 1, ces points sont répartis de la façon suivante :
+PS Pneus : 6
+PS Freins : 3
+PS Boîte de vitesse : 3
+PS Carrosserie : 3
+PS Moteur : 3
+PS Tenue de route : 2
+
+
+Mise en Place
+On utilise le circuit de Monaco. Les deux moitiés du plateau doivent être dépliées bien à plat et placées côte à côte sur une table. Une fois le circuit installé, chaque joueur reçoit une voiture, une carte de spécification, un tableau de bord et un levier de vitesse. Le tableau de bord sert pour marquer la vitesse de la voiture avec le pion qui représente le levier de vitesse. Chaque joueur place un marqueur à côté de chacune des 6 caractéristiques de sa voiture, aux emplacements indiqués sur la fiche de spécification.
+
+
+Les positions sur la grille de départ
+Chaque joueur jette le dé noir pour définir la position de sa voiture sur la grille de départ. Celui qui obtient le plus haut résultat place sa voiture en première position (ou pole position) et ainsi de suite suivant l’ordre décroissant des résultats obtenus (on rejoue les égalités).
+
+Le départ
+Avant d’enclencher sa 1re vitesse, chaque joueur jette le dé noir pour savoir s’il réalise un bon ou mauvais départ.
+
+Résultat de 1 : mauvais départ. Le joueur a raté son départ car son moteur a calé. Il ne peut pas jouer sa 1re vitesse et reste donc sur place. Il attendra le prochain tour de jeu pour démarrer en 1re, sans tirer une nouvelle fois le dé noir.
+Résultat compris entre 2 et 19 : départ normal. Le joueur a réalisé un départ normal. Il lance le dé de la 1re vitesse et déplace sa voiture du nombre de cases indiqué par le dé.
+Résultat de 20 : super départ ! Le joueur a réussi un départ « canon ». Il avance aussitôt sa voiture de 4 cases sans jouer sa 1re vitesse. Il peut se décaler d’un ou deux couloirs pour éviter une voiture. Au prochain tour de jeu, il pourra jouer en 2e vitesse s’il le désire.
+
+
+La sortie de virage
+Quand une voiture, au bout de son déplacement, dépasse la limite d’un virage sans avoir marqué le nombre d’arrêts imposé, on considère qu’elle effectue « une sortie de virage ». Elle perd alors autant de PS pneus que de cases en trop.
+
+Virage à 2 arrêts : si aucun arrêt n’est réalisé, la voiture est automatiquement éliminée.
+Virage à 3 arrêts : si aucun ou seulement un arrêt est réalisé, c’est aussi l’élimination automatique.
+
+Lors d’une sortie de virage, la voiture ne peut changer de couloir, elle doit poursuivre son déplacement dans le même couloir de sortie. Si elle termine son déplacement dans un autre virage, cet arrêt ne sera pas compté dans ce nouveau virage. Si la voiture est bloquée par une autre, elle ne peut pas la contourner : elle est obligée de freiner. Lorsqu’une voiture perd son dernier PS pneus suite à une sortie de virage, elle part en tête-à-queue. La voiture est placée à l’envers sur le circuit, à l’endroit où elle a terminé son déplacement. À son prochain tour, elle sera remise dans le bon sens, en 1re. Lors de ce tour, toute nouvelle sortie de virage d’une case lui fera faire un nouveau tête-à-queue (au-delà d’une case, elle est éliminée).
+Si une voiture perd plus de PS pneus qu’elle n’en dispose, elle est éliminée de la course.
+
+
+Le freinage
+Un joueur peut utiliser ses PS freins à n’importe quel moment pour éviter d’avancer entièrement du nombre de cases indiqué par le dé. Ceci permet par exemple de réduire la perte des PS pneus en sortie de virage.
+Il arrive que le déplacement d’une voiture soit bloqué par une ou plusieurs autres voitures sans possibilité de les contourner. Après avoir déplacé sa voiture le plus loin possible, le joueur calcule le nombre de cases qui lui resterait à parcourir s’il n’avait pas été bloqué. Le tableau ci-dessous indique les pertes de PS freins et pneus subis par le véhicule.
+Cases restant à parcourir PS freins PS pneus
+1 1 0
+2 2 0
+3 3 0
+4 3 1
+5 3 2
+6 3 3
+7 La voiture est éliminée du jeu
+Si une voiture n’a plus assez de PS freins et pneus pour assurer un blocage, elle est éliminée de la course.
+
+
+La rétrogradation
+Une voiture peut rétrograder en sautant une, deux ou trois vitesses : on estime qu’elle est alors en surrégime. Elle perdra un certain nombre de PS freins, moteur et boîte de vitesse. Consultez la table cidessous pour connaître le nombre de PS perdus. Important : il est impossible de rétrograder en sautant 4 vitesses (passer de 6e en 1re).
+Surrégime PS boîte de vitesse PS freins PS moteur
+1 vitesse 1 0 0
+2 vitesses 1 1 0
+3 vitesses 1 1 1
+Si une voiture n’a plus de PS boîte de vitesse, elle ne pourra plus rétrograder de plus d’une vitesse jusqu’à la fin de la partie.
+
+
+L’accrochage
+Quand une voiture termine son déplacement sur une case située à côté ou derrière une ou plusieurs voitures, il y a un risque d’accrochage.
+Chaque joueur concerné jette un dé noir pour déterminer s’il a accroché une autre voiture. Si le résultat du dé est de 1, la voiture du joueur perd 1 PS carrosserie.
+Si une voiture perd son dernier PS carrosserie, elle est éliminée de la course.
+
+
+La casse moteur
+Quand un joueur obtient 20 sur le dé en 5e vitesse ou 30 en 6e, il pousse son moteur à fond. Après avoir déplacé sa voiture, il doit jeter le dé noir pour tester la robustesse de son moteur. Tous les joueurs qui se trouvent en 5e ou en 6e à cet instant doivent en faire autant. Tout résultat compris entre 1 et 4 fait perdre 1 PS moteur. Si une voiture perd son dernier PS moteur, elle est éliminée de la course.
+
+Débris et tenue de route
+Chaque fois qu’une voiture perd un PS carrosserie ou moteur, on place un marqueur de débris sur la case où elle termine son déplacement. Même chose lorsqu’une voiture est éliminée pour quelque raison que ce soit. Ces cases deviennent « dangereuses ». Si une voiture passe ou s’arrête sur une telle case, jetez le dé noir. Si le résultat est compris entre 1 et 4, la voiture perd un PS tenue de route. Les cases dangereuses peuvent être évitées en déboîtant.
+Si une voiture perd son dernier PS tenue de route, elle est éliminée de la course.
+
+
+L’aspiration
+Le phénomène d’aspiration se produit lorsqu’une voiture se retrouve dans le sillage d’une autre. Elle est effective à partir de la 4e pour les deux voitures concernées. La voiture qui souhaite en bénéficier doit rouler à une vitesse supérieure ou égale à l’autre voiture. Pour profiter de l’aspiration, après avoir effectué son déplacement, la voiture doit s’arrêter directement derrière une autre. À partir de cette position, elle peut rajouter 3 cases de plus à son déplacement. On peut utiliser ces trois cases de la façon suivante :
+- déboîtement d’un couloir et retour sur le couloir
+- d’origine devant la voiture dépassée ;
+- déboîtement d’un couloir et deux cases de
+- déplacement tout droit ;
+- déboîtement de deux couloirs et une case de
+- déplacement tout droit.
+Dans tous les cas, le déplacement de trois cases doit être effectué dans sa totalité (mais on peut dépenser des PS freins pour réduire cette distance). Si l’aspiration amène la voiture derrière une autre voiture, elle peut de nouveau déclencher le phénomène d’aspiration (et ainsi de suite). Si une voiture entre dans un virage grâce à l’aspiration, il lui en coûtera un PS freins (sans réduction du nombre de cases). Dans un virage, une voiture qui se déplace grâce à l’aspiration doit respecter les règles normales (le long des flèches par exemple). Il est interdit de freiner pour bénéficier d’une aspiration. L’aspiration n’est jamais obligatoire.
+
+
+L’arrêt au stand
+À la fin du 1er tour, un joueur peut décider d’arrêter sa voiture à son stand afin de récupérer tous les PS pneus qu’il a perdus. Il n’y a aucune limitation de vitesse pour entrer dans la case de son stand. Il n’est pas nécessaire non plus de tirer le nombre exact au dé pour y arriver. Pour entrer au stand, il suffit de tirer, avec le dé de la vitesse choisie, le nombre minimum de cases qu’il reste à parcourir. Une fois la voiture arrivée au stand, elle récupère tous ses PS pneus. Lancez ensuite un dé noir pour connaître la rapidité d’exécution des mécaniciens.
+Résultat compris entre 1 et 10 : arrêt rapide. Le joueur divise par deux le résultat du dé noir (arrondi à l’entier supérieur). Cela correspond au nombre de cases que parcourt immédiatement la voiture en sortant du stand. Elle est en 4e.
+Résultat compris entre 11 et 20 : arrêt lent. La voiture est bloquée dans les stands jusqu’à votre prochain tour. Elle en ressortira en 4e (ou moins).
+Les règles de rétrogradation, d’accrochage, de freinage et de casse moteur ne s’appliquent pas dans le couloir des stands. Si une voiture vous précède, vous ne pouvez pas la dépasser, car le couloir est étroit. Vous patienterez sur la case située juste derrière quelle que soit votre vitesse et sans que cela affecte vos PS. Les voitures qui se trouvent sur la piste dans la ligne droite entre l’entrée et la sortie des stands jouent avant celles engagées dans le couloir des stands.
+
+
+L’arrivée
+Le joueur dont la voiture franchit la première la ligne d’arrivée (après 2 tours de course) est le vainqueur de la course. Celle-ci se termine quand toutes les voitures ont franchi la ligne d’arrivée : on peut alors déterminer un classement.
+
